@@ -1,5 +1,3 @@
-2nd Activity
-========================
 # The Ashley Madison Case
 
 The Ashley Madison hack was a huge deal. A group of hackers leaked a ton of private info from the dating site that catered for people looking to cheat. They leaked user names, emails, credit cards, everything, because they wanted the site shut down. When that didn’t happen, they made all public, and the consequences were huge. People’s lives were ruined, marriages fell apart, and there were even reports of suicides.
